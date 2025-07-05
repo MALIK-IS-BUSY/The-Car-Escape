@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5fcc874439187e7458a021cd925e00dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lever: {instanceID: 0}
+  - churchGate: {instanceID: 0}
+  - leverText: {instanceID: 0}
+  - mask_jumpscare: {instanceID: 0}
+  - orientation: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
